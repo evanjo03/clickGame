@@ -1,0 +1,9 @@
+.jumbotron-fluid {
+    color: white;
+    font-family: 'Rubik', sans-serif;
+    background: black;
+}
+
+.score {
+    font-size: 18px
+}

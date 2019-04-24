@@ -1,0 +1,9 @@
+.wrapper {
+  height: 100%;
+  display: flex;
+  background-image: url("./background.jpg");
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+}

@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "name": "Iron Man",
+    "image": "https://avatarfiles.alphacoders.com/762/76269.jpg",
+    "clicked" : false
+  },
+  {
+    "id": 2,
+    "name": "Thor",
+    "image": "https://akns-images.eonline.com/eol_images/Entire_Site/2017216/rs_634x952-170316094114-ThorRagnarok58c9d18ec0d49.jpg?fit=inside|900:auto&output-quality=90",
+    "clicked" : false
+  },
+  {
+    "id": 3,
+    "name": "The Blank Panther",
+    "image": "https://www.gannett-cdn.com/-mm-/ec8293b6e06109e0aa3abd2565b468b8e317748e/c=0-76-2988-4061/local/-/media/2018/01/27/USATODAY/USATODAY/636526458976202193-BlackPanther596d2f0946755.jpg?width=534&height=712&fit=crop",
+    "clicked" : false
+  },
+  {
+    "id": 4,
+    "name": "Thanos",
+    "image": "https://pixel.nymag.com/imgs/daily/vulture/2018/04/25/25-thanos.w700.h700.jpg",
+    "clicked" : false
+  },
+  {
+    "id": 5,
+    "name": "Gamora",
+    "image": "https://i.pinimg.com/originals/62/aa/44/62aa44f895efd5b19297384108774c7e.jpg",
+    "clicked" : false
+  },
+  {
+    "id": 6,
+    "name": "Ant Man",
+    "image": "https://www.sideshow.com/storage/product-images/903697/ant-man_marvel_silo.png",
+    "clicked" : false
+  },
+  {
+    "id": 7,
+    "name": "Deadpool",
+    "image": "https://vignette.wikia.nocookie.net/xmenmovies/images/7/7c/Deadpool_%28Thumbs_Up_-_Transparent%29.png/revision/latest?cb=20170324222613",
+    "clicked" : false
+  },
+  {
+    "id": 8,
+    "name": "The Hulk",
+    "image": "https://i.imgur.com/ERSSjj6.png",
+    "clicked" : false
+  },
+  {
+    "id": 9,
+    "name": "Captain Marvel",
+    "image": "https://s1.r29static.com//bin/entry/47a/720x975,85/2140734/where-emcaptain-marvelem-fits-chronologically-2140734.webp",
+    "clicked" : false
+  },
+  {
+    "id": 10,
+    "name": "Nick Fury",
+    "image": "https://hips.hearstapps.com/digitalspyuk.cdnds.net/17/33/1502794376-samuel-l-jackson-nick-fury-side-eye.jpg?crop=0.678xw:1.00xh;0.231xw,0&resize=480:*",
+    "clicked" : false
+  },
+  {
+    "id": 11,
+    "name": "Black Widow",
+    "image": "https://vignette.wikia.nocookie.net/avengers/images/a/a8/Black_Widow.jpg/revision/latest?cb=20181209100851&path-prefix=de",
+    "occupation": "Superhero",
+    "location": "Earth",
+    "clicked" : false
+  },
+  {
+    "id": 12,
+    "name": "Spiderman",
+    "image": "https://i.pinimg.com/originals/43/b5/2b/43b52b928e04c42882960180be4f2076.jpg",
+    "clicked" : false
+  }
+]
