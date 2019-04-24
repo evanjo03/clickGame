@@ -11,7 +11,7 @@ function Navbar() {
             <div className="collapse navbar-collapse" id="navbarNav">
                 <ul className="navbar-nav">
                     <li className="nav-item">
-                        <a className="nav-link" href="#">Github</a>
+                        <a className="nav-link" href="https://github.com/evanjo03/clickGame">Github</a>
                     </li>
                 </ul>
             </div>
